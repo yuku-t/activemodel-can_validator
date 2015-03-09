@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/yuku-t/activemodel-can_validator.svg?branch=master)](https://travis-ci.org/yuku-t/activemodel-can_validator) [![Code Climate](https://codeclimate.com/github/yuku-t/activemodel-can_validator/badges/gpa.svg)](https://codeclimate.com/github/yuku-t/activemodel-can_validator) [![Coverage Status](https://coveralls.io/repos/yuku-t/activemodel-can_validator/badge.svg)](https://coveralls.io/r/yuku-t/activemodel-can_validator) [![Dependency Status](https://gemnasium.com/yuku-t/activemodel-can_validator.svg)](https://gemnasium.com/yuku-t/activemodel-can_validator)
 
-Validate user permissions via [CanCan](https://github.com/CanCanCommunity/cancancan) API.
+Validate user permissions with [CanCan](https://github.com/CanCanCommunity/cancancan) API.
 
 ## Usage
 

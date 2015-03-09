@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in activemodel-cancan_validator.gemspec
+# Specify your gem's dependencies in activemodel-can_validator.gemspec
 gemspec
 
 group :test do
